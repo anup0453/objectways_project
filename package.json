@@ -1,8 +1,9 @@
 {
   "name": "my-project",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node index.js",
     "build": "webpack --mode production"
   },
   "dependencies": {
